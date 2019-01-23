@@ -8,11 +8,10 @@ En este proyecto vas a crear tu propia aplicación utilizando bases de datos rel
 
 Para poder almacenar y consultar la información de las películas de tu aplicación, vas a usar bases de datos relacionales, una herramienta esencial hoy en día en el mundo del desarrollo web.
 
-Como queremos que te enfoques en la parte back-end de la aplicación, la parte que va a conectarse con la base de datos y procesar información, no vas a tener que realizar el frontend de tu proyecto. Vas a encontrarlo ya realizado en los recursos descargables.
-
 REQUISITOS
 
-Para poder realizar el proyecto “Qué veo hoy”, es necesario tener conocimientos de HTML, JavaScript y CSS. Principalmente vas a necesitar saber Node.js y MySQL para el back-end.
+Para poder realizar el proyecto “Qué veo hoy”, es necesario tener conocimientos de HTML, JavaScript y CSS.
+Principalmente vas a necesitar saber Node.js y MySQL para el back-end.
 
 [Acámica](https://www.acamica.com/desarrollo-web-full-stack 'titulo')
 
