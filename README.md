@@ -1,4 +1,4 @@
-# ¿Què veo hoy?
+# ¿Qué veo hoy?
 
 # Proyecto N° 9
 
