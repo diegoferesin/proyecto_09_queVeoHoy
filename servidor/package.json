@@ -1,0 +1,24 @@
+{
+  "name": "queveohoy",
+  "version": "1.0.0",
+  "description": "¿Qué veo hoy?",
+  "scripts": {
+    "dev": "PORT=4000 nodemon servidor/servidor --watch src",
+    "dev-windows": "set PORT=4000 && nodemon servidor/servidor --watch src",
+    "start": "PORT=4000 node src/servidor",
+    "start-windows": "set PORT=4000 && node servidor/servidor"
+  },
+  "keywords": [],
+  "author": "@diegoferesin",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.18.10",
+    "prettier": "^1.16.4"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "mysql": "^2.16.0"
+  }
+}

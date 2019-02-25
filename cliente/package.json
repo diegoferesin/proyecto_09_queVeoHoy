@@ -1,0 +1,17 @@
+{
+  "name": "queveohoy",
+  "version": "1.0.0",
+  "description": "¿Qué veo hoy? Client",
+  "scripts": {
+    "start": "serve ./src"
+  },
+  "keywords": [],
+  "author": "@diegoferesin",
+  "license": "ISC",
+  "dependencies": {
+    "serve": "^10.1.2"
+  },
+  "devDependencies": {
+    "prettier": "^1.16.4"
+  }
+}
