@@ -14,19 +14,3 @@ Para poder realizar el proyecto “Qué veo hoy”, es necesario tener conocimie
 Principalmente vas a necesitar saber Node.js y MySQL para el back-end.
 
 [Acámica](https://www.acamica.com/desarrollo-web-full-stack 'titulo')
-
-## base-project
-
-## Desarrollo
-
-```bash
-# instalar dependencias
-npm i
-
-# modo desarrollo
-npm start
-```
-
-## Licencia
-
-ISC
